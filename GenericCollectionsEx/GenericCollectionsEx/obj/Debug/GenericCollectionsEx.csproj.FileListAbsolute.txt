@@ -1,0 +1,7 @@
+D:\GND\Day-1\GenericCollectionsEx\GenericCollectionsEx\bin\Debug\GenericCollectionsEx.exe.config
+D:\GND\Day-1\GenericCollectionsEx\GenericCollectionsEx\bin\Debug\GenericCollectionsEx.exe
+D:\GND\Day-1\GenericCollectionsEx\GenericCollectionsEx\bin\Debug\GenericCollectionsEx.pdb
+D:\GND\Day-1\GenericCollectionsEx\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.csprojAssemblyReference.cache
+D:\GND\Day-1\GenericCollectionsEx\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.csproj.CoreCompileInputs.cache
+D:\GND\Day-1\GenericCollectionsEx\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.exe
+D:\GND\Day-1\GenericCollectionsEx\GenericCollectionsEx\obj\Debug\GenericCollectionsEx.pdb

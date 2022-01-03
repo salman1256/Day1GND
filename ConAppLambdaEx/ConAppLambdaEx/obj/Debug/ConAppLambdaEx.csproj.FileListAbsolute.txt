@@ -1,0 +1,7 @@
+D:\GND\Day-1\ConAppLambdaEx\ConAppLambdaEx\bin\Debug\ConAppLambdaEx.exe.config
+D:\GND\Day-1\ConAppLambdaEx\ConAppLambdaEx\bin\Debug\ConAppLambdaEx.exe
+D:\GND\Day-1\ConAppLambdaEx\ConAppLambdaEx\bin\Debug\ConAppLambdaEx.pdb
+D:\GND\Day-1\ConAppLambdaEx\ConAppLambdaEx\obj\Debug\ConAppLambdaEx.csprojAssemblyReference.cache
+D:\GND\Day-1\ConAppLambdaEx\ConAppLambdaEx\obj\Debug\ConAppLambdaEx.csproj.CoreCompileInputs.cache
+D:\GND\Day-1\ConAppLambdaEx\ConAppLambdaEx\obj\Debug\ConAppLambdaEx.exe
+D:\GND\Day-1\ConAppLambdaEx\ConAppLambdaEx\obj\Debug\ConAppLambdaEx.pdb

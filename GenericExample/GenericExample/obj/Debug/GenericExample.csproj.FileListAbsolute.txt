@@ -1,0 +1,7 @@
+D:\GND\Day-1\GenericExample\GenericExample\bin\Debug\GenericExample.exe.config
+D:\GND\Day-1\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+D:\GND\Day-1\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+D:\GND\Day-1\GenericExample\GenericExample\obj\Debug\GenericExample.csprojAssemblyReference.cache
+D:\GND\Day-1\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.CoreCompileInputs.cache
+D:\GND\Day-1\GenericExample\GenericExample\obj\Debug\GenericExample.exe
+D:\GND\Day-1\GenericExample\GenericExample\obj\Debug\GenericExample.pdb
