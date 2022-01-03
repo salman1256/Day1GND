@@ -1,0 +1,10 @@
+D:\GND\Day-1\UsageofLib\UsageofLib\bin\Debug\UsageofLib.exe.config
+D:\GND\Day-1\UsageofLib\UsageofLib\bin\Debug\UsageofLib.exe
+D:\GND\Day-1\UsageofLib\UsageofLib\bin\Debug\UsageofLib.pdb
+D:\GND\Day-1\UsageofLib\UsageofLib\bin\Debug\CalcLib.dll
+D:\GND\Day-1\UsageofLib\UsageofLib\bin\Debug\CalcLib.pdb
+D:\GND\Day-1\UsageofLib\UsageofLib\obj\Debug\UsageofLib.csprojAssemblyReference.cache
+D:\GND\Day-1\UsageofLib\UsageofLib\obj\Debug\UsageofLib.csproj.CoreCompileInputs.cache
+D:\GND\Day-1\UsageofLib\UsageofLib\obj\Debug\UsageofLib.csproj.CopyComplete
+D:\GND\Day-1\UsageofLib\UsageofLib\obj\Debug\UsageofLib.exe
+D:\GND\Day-1\UsageofLib\UsageofLib\obj\Debug\UsageofLib.pdb

@@ -1,0 +1,6 @@
+D:\GND\Day-1\CalcLib\CalcLib\bin\Debug\CalcLib.dll
+D:\GND\Day-1\CalcLib\CalcLib\bin\Debug\CalcLib.pdb
+D:\GND\Day-1\CalcLib\CalcLib\obj\Debug\CalcLib.csprojAssemblyReference.cache
+D:\GND\Day-1\CalcLib\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+D:\GND\Day-1\CalcLib\CalcLib\obj\Debug\CalcLib.dll
+D:\GND\Day-1\CalcLib\CalcLib\obj\Debug\CalcLib.pdb
